@@ -41,7 +41,7 @@ Siga os passos abaixo para rodar a aplicação localmente.
 
 1.  Inicie seu servidor MySQL e acesse-o.
 2.  Crie um novo banco de dados chamado `bd_dsapi`.
-3.  Execute o script SQL (fornecido separadamente) para criar todas as tabelas (`cidades`, `clientes`, `produtos`, `pedidos`, etc.).
+3.  Execute o script SQL (database.sql) para criar todas as tabelas (`cidades`, `clientes`, `produtos`, `pedidos`, etc.).
 
 ### 4. Variáveis de Ambiente
 
